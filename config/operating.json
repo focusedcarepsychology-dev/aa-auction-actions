@@ -1,0 +1,15 @@
+{
+  "projectName": "AA Auction Actions",
+  "currentLegalEntity": "Paradoxicapplay",
+  "defaultCurrency": "EUR",
+  "maxPurchaseEquivalentEUR": 500,
+  "preferredExpectedProfitEUR": 300,
+  "preferredROI": 1.0,
+  "minimumBaseCaseNetMargin": 0.5,
+  "purchaseMode": "human-approval",
+  "preferFreeRollBundles": true,
+  "sellerKnowledgePreferredMax": 2,
+  "identificationConfidencePreferredMin": 4,
+  "exitCertaintyPreferredMin": 3,
+  "directShipPreferred": true
+}
